@@ -105,11 +105,6 @@ I'm always eager to:
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PiyushDesignss&theme=dark&hide_border=true)
-
----
 
 > 🚀 *"The best way to predict the future is to design it."*  
 > — **Piyush Singh** | Future Mechanical Design Engineer
