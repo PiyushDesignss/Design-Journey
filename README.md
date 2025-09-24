@@ -42,3 +42,30 @@ const piyush = {
                  excellence in execution, 
                  innovation in thinking."
 };
+
+
+
+
+---
+
+### ✅ **Changes Made:**
+- **Removed**: GitHub Stats card
+- **Removed**: GitHub Streak Stats
+- **Removed**: Activity Graph section
+- **Kept**: All the modern, dark-themed elements
+- **Result**: Cleaner, more focused on your actual skills and projects
+
+---
+
+### 🎯 **Why This Version is Better:**
+- Less cluttered
+- Focuses on your **actual work** rather than GitHub metrics
+- Faster loading (fewer API calls)
+- More professional (skills matter more than commit streaks)
+- Still looks modern and impressive
+
+---
+
+Copy this script → Paste in your README.md → Commit → Done! 🚀
+
+Your portfolio now looks **sleek, dark, and professional** without unnecessary statistics. Perfect for showcasing your mechanical design journey!
