@@ -107,4 +107,4 @@ I'm always eager to:
 
 
 > 🚀 *"The best way to predict the future is to design it."*  
-> — **Piyush Singh** | Future Mechanical Design Engineer
+> — **Piyush Singh** | Mechanical Design Engineer
